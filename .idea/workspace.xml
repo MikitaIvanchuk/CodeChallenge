@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="I/okhttp.OkHttpClient:" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47ee1328-19ba-4396-9900-fe866558439b" name="Default Changelist" comment="test 6">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/CodeChallenge.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/CodeChallenge.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Object" />
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Task_1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/IvanchukM/CodeChallenge.git" />
+        <option value="https://github.com/googlecodelabs/android-testing.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xAuoMIHHDyOLg6WKVzVV1Z3Er1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-mi_a1-2842f51b0504" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.codechallenge" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="2842f51b0504" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-08-29T18:11:29.453Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/student/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/codechallenge/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-preview/Users/student/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.codechallenge" />
+      <recent name="com.example.codechallenge.ui.baseAdapter" />
+      <recent name="com.example.codechallenge.model.testEvent.noneed" />
+      <recent name="com.example.codechallenge.ui.eventsList" />
+      <recent name="com.example.codechallenge.ui.eventDetails" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.codechallenge.repository" />
+      <recent name="com.example.codechallenge.ui.eventsList" />
+      <recent name="com.example.codechallenge.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.codechallenge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/codechallenge/di/viewModel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="EventsViewModelTest.test call and loading state states without internet" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenge.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codechallenge.ui.eventsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.codechallenge.ui.eventsList" />
+      <option name="MAIN_CLASS_NAME" value="com.example.codechallenge.ui.eventsList.EventsViewModelTest" />
+      <option name="METHOD_NAME" value="test call and loading state states without internet" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventsViewModelTest.test liveData for expected data and loading state for success" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenge.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codechallenge.ui.eventsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.codechallenge.ui.eventsList" />
+      <option name="MAIN_CLASS_NAME" value="com.example.codechallenge.ui.eventsList.EventsViewModelTest" />
+      <option name="METHOD_NAME" value="test liveData for expected data and loading state for success" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventsViewModelTest.test to check if repository call only once" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenge.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codechallenge.ui.eventsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.codechallenge.ui.eventsList" />
+      <option name="MAIN_CLASS_NAME" value="com.example.codechallenge.ui.eventsList.EventsViewModelTest" />
+      <option name="METHOD_NAME" value="test to check if repository call only once" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventsViewModelTest.test to check if repository is called only once" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenge.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codechallenge.ui.eventsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.codechallenge.ui.eventsList" />
+      <option name="MAIN_CLASS_NAME" value="com.example.codechallenge.ui.eventsList.EventsViewModelTest" />
+      <option name="METHOD_NAME" value="test to check if repository is called only once" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventsViewModelTest.test to check of repository doesn't call if there is no internet" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenge.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.codechallenge.ui.eventsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.codechallenge.ui.eventsList" />
+      <option name="MAIN_CLASS_NAME" value="com.example.codechallenge.ui.eventsList.EventsViewModelTest" />
+      <option name="METHOD_NAME" value="test to check of repository doesn't call if there is no internet" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CodeChallenge.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.EventsViewModelTest.test call and loading state states without internet" />
+        <item itemvalue="Android JUnit.EventsViewModelTest.test to check if repository is called only once" />
+        <item itemvalue="Android JUnit.EventsViewModelTest.test liveData for expected data and loading state for success" />
+        <item itemvalue="Android JUnit.EventsViewModelTest.test to check of repository doesn't call if there is no internet" />
+        <item itemvalue="Android JUnit.EventsViewModelTest.test to check if repository call only once" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47ee1328-19ba-4396-9900-fe866558439b" name="Default Changelist" comment="" />
+      <created>1629810387200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629810387200</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1629810626204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629810626205</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1630079623492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630079623493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test 3">
+      <created>1630264735737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630264735737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test 4">
+      <created>1630276208827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630276208827</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test 4">
+      <created>1630276328403</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630276328403</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/android-testing" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="test" />
+    <MESSAGE value="test 3" />
+    <MESSAGE value="test 4" />
+    <MESSAGE value="test 5" />
+    <MESSAGE value="test 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2444" y="169" key="#MapperTest.mapToUIModel" timestamp="1630307066320">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2444" y="169" key="#MapperTest.mapToUIModel/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630307066320" />
+    <state x="2659" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1630307267786">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2659" y="272" key="#com.intellij.ide.util.MemberChooser/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630307267786" />
+    <state x="2321" y="481" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1630328645027">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2321" y="481" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630328645027" />
+    <state x="2552" y="438" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1630328646559">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2552" y="438" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630328646559" />
+    <state x="2508" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1630327836052">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2508" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630327836052" />
+    <state x="2617" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629965667719">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="697" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1920.1055/1920.25.1920.1055@0.25.1920.1055" timestamp="1629907688296" />
+    <state x="2617" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1629965667719" />
+    <state x="2527" y="348" width="582" height="409" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1630337610500">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2527" y="348" width="582" height="409" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630337610500" />
+    <state x="2637" y="406" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1630346319910">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2637" y="406" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630346319910" />
+    <state x="2468" y="311" key="AndroidCreateResourceFileDialog" timestamp="1630280889083">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2468" y="311" key="AndroidCreateResourceFileDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630280889083" />
+    <state x="2703" y="334" key="AndroidCreateXmlResourceDialog" timestamp="1630293672930">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2703" y="334" key="AndroidCreateXmlResourceDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630293672930" />
+    <state x="2648" y="303" key="AndroidProcessChooserDialog" timestamp="1630261099299">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2648" y="303" key="AndroidProcessChooserDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630261099299" />
+    <state x="2438" y="126" key="CommitChangelistDialog2" timestamp="1630348696664">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2438" y="126" key="CommitChangelistDialog2/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630348696664" />
+    <state x="2020" y="125" width="1720" height="855" key="DiffContextDialog" timestamp="1630285412578">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2020" y="125" width="1720" height="855" key="DiffContextDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630285412578" />
+    <state x="807" y="422" key="Github.ShareDialog" timestamp="1630352245863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="422" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630352245863" />
+    <state x="2727" y="453" key="Github.ShareDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630348500210" />
+    <state x="2588" y="263" key="Github.UntrackedFilesDialog" timestamp="1630348509063">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2588" y="263" key="Github.UntrackedFilesDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630348509063" />
+    <state width="1876" height="477" key="GridCell.Tab.0.bottom" timestamp="1630344874134">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874134" />
+    <state width="1876" height="477" key="GridCell.Tab.0.center" timestamp="1630344874133">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.0.center/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874133" />
+    <state width="1876" height="477" key="GridCell.Tab.0.left" timestamp="1630344874133">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.0.left/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874133" />
+    <state width="1876" height="477" key="GridCell.Tab.0.right" timestamp="1630344874134">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.0.right/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874134" />
+    <state width="1876" height="477" key="GridCell.Tab.1.bottom" timestamp="1630344874135">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.1.bottom/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874135" />
+    <state width="1876" height="477" key="GridCell.Tab.1.center" timestamp="1630344874134">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.1.center/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874134" />
+    <state width="1876" height="477" key="GridCell.Tab.1.left" timestamp="1630344874134">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.1.left/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874134" />
+    <state width="1876" height="477" key="GridCell.Tab.1.right" timestamp="1630344874135">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1876" height="477" key="GridCell.Tab.1.right/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630344874135" />
+    <state x="461" y="160" width="998" height="711" key="SettingsEditor" timestamp="1630352364097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="160" width="998" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630352364097" />
+    <state x="2381" y="188" key="SettingsEditor/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630348630164" />
+    <state x="2730" y="471" key="VCS.ChangelistChooser" timestamp="1630307154244">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2730" y="471" key="VCS.ChangelistChooser/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630307154244" />
+    <state x="2480" y="289" key="Vcs.Push.Dialog.v2" timestamp="1630348267697">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2480" y="289" key="Vcs.Push.Dialog.v2/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630348267697" />
+    <state x="2660" y="334" key="chooseDestDirectoryDialog" timestamp="1630337573947">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2660" y="334" key="chooseDestDirectoryDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630337573947" />
+    <state x="2020" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1630326501747">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2020" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630326501747" />
+    <state x="2019" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1630073195646">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2019" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630073195646" />
+    <state x="662" y="25" width="1258" height="1036" key="dock-window-1" timestamp="1629989441012">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="662" y="25" width="1258" height="1036" key="dock-window-1/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1629989441012" />
+    <state x="662" y="25" width="1258" height="1036" key="dock-window-2" timestamp="1630063526534">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="662" y="25" width="1258" height="1036" key="dock-window-2/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630063526534" />
+    <state x="2571" y="304" width="698" height="490" key="find.popup" timestamp="1630348449488">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2571" y="304" width="698" height="490" key="find.popup/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630348449488" />
+    <state x="2546" y="345" key="git4idea.merge.GitPullDialog" timestamp="1630249122081">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2546" y="345" key="git4idea.merge.GitPullDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630249122081" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1630268891432">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630268891432" />
+    <state x="2615" y="378" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1630337576580">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2615" y="378" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630337576580" />
+    <state x="2545" y="255" key="run.anything.popup" timestamp="1630264581063">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2545" y="255" key="run.anything.popup/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630264581063" />
+    <state x="625" y="231" width="670" height="667" key="search.everywhere.popup" timestamp="1630352228062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="231" width="670" height="667" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630352228062" />
+    <state x="2545" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1920.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1630274054199" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="AndroidJUnit">
+        <watch expression="evensViewModel.loadingState.value" />
+        <watch expression="LoadingState.Error(Throwable())" />
+        <watch expression="evensViewModel.eventResponse.value" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="savedInstanceState " />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeChallenge$EventsViewModelTest.ic" NAME="EventsViewModelTest Coverage Results" MODIFIED="1630330674459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.codechallenge.ui.eventsList.*</FILTER>
+    </SUITE>
+  </component>
+</project>

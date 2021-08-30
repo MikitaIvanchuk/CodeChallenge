@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/issue_event_layout"
+    style="@style/ItemCardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="10dp">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/event_name"
+            style="@style/EventTitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Event Name" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/event_id"
+            style="@style/EventListSubtitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="@id/event_name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/event_name"
+            tools:text="1234321" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/user_name"
+            style="@style/EventListSubtitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/event_name"
+            tools:text="Event Name" />
+
+        <ImageView
+            android:id="@+id/user_profile_image"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:contentDescription="@string/user_profile_image"
+            android:scaleType="centerCrop"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/user_name" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/repository_id"
+            style="@style/EventListSubtitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/user_name"
+            tools:text="Event Name" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/issue_event_action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="@id/user_profile_image"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:text="Event Name" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>
